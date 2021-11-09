@@ -1,12 +1,13 @@
 # Census6Pentachora
-Census of all 4-manifolds with six 4-simplices
+Census of all 4-manifolds with up to six 4-simplices
 
 The census has been created through the tricensus command in Regina and classified using a sphere recognition heuristic implemented in polymake.
 For more information on the heuristic and on the census classification: https://arxiv.org/abs/1405.3848
 
 The repository is organized as follows:
 
--spheres.sig, not_spheres.sig, unknown.sig contain the ismorphism signatures of the examples that are PL-spheres, non sphere and that we have not been able to classify respectively.
+-Each directory, 2Pentachora, 4Pentachora and 6Pentachora contains the isomorphism signature of the complexes with 2,4 or 6 pentachora respectively.
+  Inside each directory you will find the isomorphism signatures in different file, depending if the examples are PL-spheres, non sphere or if we have not been able   to classify them.
 
 -The script ReginaToPolymake.py can be used to read a isomorphism signature and create a list of facets of its second barycentric subdivision in a file readable in polymake.
 
