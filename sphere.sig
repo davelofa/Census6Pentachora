@@ -1,0 +1,6 @@
+cAkaabb2aoa2aoa
+cAkaabb+aoaqbga
+cAkaabb+aoa+aoa
+cMkabbb2a4aaaca
+cMkabbb2aaaaa2a
+cPkbbbbaaaaaaaa
