@@ -21,7 +21,7 @@ The repository is organized as follows:
 
 -The script ReginaToPolymake.py can be used to read a isomorphism signature and create a list of facets of its second barycentric subdivision in a file readable in polymake. For more information on the final format: https://arxiv.org/pdf/1605.05057.pdf
 
-To use the script simply run on your terminal: 
+To use the script simply run on your terminal (after having installed Regina): 
 ```
 regina-python ReginaToPolymake.py gALLQQaaddefdfefHbgaxaBbHbzbfazbgafa sphere.facets
 ```
