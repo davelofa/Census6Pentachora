@@ -49,6 +49,6 @@ In polymake is also available the command:
 ```
 print $q->SPHERE;
 ```
-but wiithout any preprocessing on the simplicial complex and depending on the polymake version it could take a considerable amount of time and resources.
+but without any preprocessing on the simplicial complex and depending on the polymake version it could take a considerable amount of time and resources.
 
 Alternatively you can also easily access the example through the Regina interface by selecting File→Import→Isomorphism Signature List. 
